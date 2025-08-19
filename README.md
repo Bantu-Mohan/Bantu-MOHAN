@@ -14,8 +14,7 @@
 
 ---
 
-## 🛠️ Projects  ## 🛠️ Projects  
-
+## 🛠️ Projects  ##
 - 🌐 **[BranchBuddy – College Branch Rank Filter Web App](https://github.com/Bantu-Mohan/BranchBuddy)**  
    🔗 [Live Demo](https://branchbuddy.onrender.com)  
    📌 Flask-based web app to filter engineering branches by rank, category & preferences.  
