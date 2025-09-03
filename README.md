@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bantu Mohan  
 
-💻 **B.Tech CSE (AI & ML) @ IARE Hyderabad (202–2026)**  
+💻 **B.Tech CSE (AI & ML) @ IARE Hyderabad (2022–2026)**  
 ☁️ Passionate about **Cloud Infrastructure, AI/ML, and DevOps**  
 🚀 Skilled in **Python, Azure, Terraform, Docker, and YOLOv8**  
 
