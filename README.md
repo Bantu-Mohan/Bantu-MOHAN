@@ -39,7 +39,8 @@
 - 🏅 [Deloitte Data Analytics Virtual Experience – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_ZkpiHWz6yFamx6QQJ_1744610093549_completion_certificate.pdf)  
 - 🏅 [Docker for Beginners – KodeKloud](https://learn.kodekloud.com/user/certificate/fc670a8d-c808-4818-8d07-9a0d1cb121ee)  
 - 🏅 [Python for Data Science, AI & Development – IBM/Coursera](https://www.coursera.org/account/accomplishments/verify/PRP6L85HOB39)  
-- 🏅 [Prompt Engineering for Everyone – CognitiveClass.ai](https://courses.cognitiveclass.ai/certificates/629e94e01a554eaf8bcba173ef79c465)  
+- 🏅 [Prompt Engineering for Everyone – CognitiveClass.ai](https://courses.cognitiveclass.ai/certificates/629e94e01a554eaf8bcba173ef79c465)
+- 🏅 [nlocking AI for Everyone (Beginner)]([https://courses.cognitiveclass.ai/certificates/629e94e01a554eaf8bcba173ef79c465](https://skill-india-dev.s3.ap-south-1.amazonaws.com/certificate_generic/uploaded_elements/2025051967000993/certificate_658a7e4d-dadd-4922-8f22-9593b904f690.pdf?response-content-disposition=inline&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260218T124010Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1999&X-Amz-Credential=AKIA3OJCFBJTPLAN4OGU%2F20260218%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Signature=a6024b1b3dab3342a53be7024ece0e5153334959c1dd21a7f6233529552ff75e))  
 
 ---
 
